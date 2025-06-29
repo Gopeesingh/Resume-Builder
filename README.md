@@ -178,22 +178,4 @@ resume-builder/
 
 ---
 
-## 🧑‍💻 Author
-
-Built with ❤️ by [Debaraj-stha](https://github.com/Debaraj-stha/)
-
----
-
-## Server repository
-
-[Server](https://github.com/Debaraj-stha/resume-builder/tree/server)
-
----
-
-## 📬 Feedback & Contributions
-
-Feel free to open issues or pull requests. Contributions are welcome!
-
----
-
 ---
